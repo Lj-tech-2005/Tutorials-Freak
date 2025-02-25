@@ -427,3 +427,9 @@
     color: rgba(102, 112, 133, 1);
 
 }
+
+
+body{
+
+    overflow-x: hidden;
+}
